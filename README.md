@@ -1,6 +1,6 @@
-# @bitgraphix/swapsicle-default-token-list
+# @bitgraphix/ovx-default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the Swapsicle interface.
+This NPM module and GitHub repo contains the default token list used in the OVX interface.
 
 ### Disclaimer
 
