@@ -278,6 +278,13 @@
     "symbol": "OXP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/ovx-token-list/master/logos/avalanche/0xf049B37803de34ba970388149A9aDD2638025943/logo.png"
+  },
+  {
+    "address": "0x6574e2c013171Cd50A6d34e588906047A0d12F2c",
+    "chainId": 43114,
+    "name": "VerseX",
+    "symbol": "XVR",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/ovx-token-list/master/logos/avalanche/0x6574e2c013171Cd50A6d34e588906047A0d12F2c/logo.png"
   }
-  
 ]
