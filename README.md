@@ -1,6 +1,13 @@
-# @bitgraphix/ovx-default-token-list
+# @swapsicledex/ovx-default-token-list
 
 This NPM module and GitHub repo contains the default token list used in the OVX interface.
+
+## Deployment
+
+Install npm.
+Ensure logged in with npm login.
+Set the version number in the package.json file.
+Publish with npm publish.
 
 ### Disclaimer
 

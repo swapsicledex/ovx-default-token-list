@@ -1,7 +1,7 @@
 {
-  "name": "@bitgraphix/ovx-default-token-list",
-  "version": "0.0.2",
-  "description": "◦ The OVX default token list",
+  "name": "@swapsicledex/ovx-default-token-list",
+  "version": "1.0.3",
+  "description": "◦ The ovx default token list",
   "main": "build/ovx-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dev-Legion/ovx-default-token-list.git"
+    "url": "git+https://github.com/swapsicledex/ovx-default-token-list.git"
   },
   "publishConfig": {
     "access": "public",
@@ -23,16 +23,17 @@
   },
   "keywords": [
     "ovx",
+    "onAVAX",
     "default",
     "token",
     "list"
   ],
-  "author": "Andreas Billy Sutandi <billyfebram@gmail.com>",
+  "author": "Swapsicle <support@swapsicle.io>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Dev-Legion/ovx-default-token-list/issues"
+    "url": "https://github.com/swapsicledex/ovx-default-token-list/issues"
   },
-  "homepage": "https://github.com/Dev-Legion/ovx-default-token-list#readme",
+  "homepage": "https://github.com/swapsicledex/ovx-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",
